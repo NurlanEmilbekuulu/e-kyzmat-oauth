@@ -1,0 +1,1 @@
+web: gunicorn infocom.wsgi --log-file -
